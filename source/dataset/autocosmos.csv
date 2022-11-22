@@ -1,0 +1,486 @@
+name,model,version,year,km,city,province,price
+Chevrolet,Corsa Hatchback,5P 1.4L,2003,332000 km,Quito | ,Pichincha,u$s6.800
+Nissan,Tiida Sedan,Advance,2009,174500 km,Guayaquil | ,Guayas,u$s8.500
+Kia,Picanto,1.2L R,2020,29999 km,Guayaquil | ,Guayas,u$s12.900
+Hyundai,Tucson,4x2 Ac Aut,2007,250000 km,Quito | ,Pichincha,u$s10.900
+Chevrolet,Tracker,LS,2014,185000 km,Santo Domingo De Los Tsáchilas | ,Santo Domingo de los Tsáchilas,u$s15.800
+Nissan,Sentra,Sentra Aut,2006,20000 km,Guayaquil | ,Guayas,u$s4.500
+Jeep,Grand Cherokee,Limited 4x4 Aut,1995,265000 km,Loja | ,Loja,u$s5.500
+Renault,Sandero,1.6L Expression,2015,103000 km,Cuenca | ,Azuay,u$s9.900
+Kia,Picanto,1.2L R,2020,71680 km,Guayaquil | ,Guayas,u$s12.800
+Kia,Sportage,2.0L TM,2006,290000 km,Quito | ,Pichincha,u$s10.000
+Hyundai,Sonata Híbrido,GL Aut Full equipo,2017,58700 km,Guayaquil | ,Guayas,u$s22.500
+Chevrolet,Grand Vitara,5P V6 Ac Aut,2003,176369 km,Quito | ,Pichincha,u$s9.000
+Great Wall,Wingle 5,2.2L C/D,2019,78000 km,Guayaquil | ,Guayas,u$s16.200
+Chevrolet,Trooper,5P 4X4 TM AA,1991,865768 km,Quito | ,Pichincha,u$s4.560
+Skoda,Felicia,"Glx A-A L4,1.6 S 2 1",1995,320000 km,Ambato | ,Tungurahua,u$s5.800
+Renault,Logan,Familier,2011,419000 km,Guayaquil | ,Guayas,u$s6.500
+Chevrolet,Silverado,4x2 T-A AA,1994,340000 km,Guayaquil | ,Guayas,u$s5.200
+Kia,Óptima,2.0 Hibrido,2018,95274 km,Esmeraldas | ,Esmeraldas,u$s23.750
+Ford,F150,3.5L XL 4x4 CS,2018,60000 km,Guayaquil | ,Guayas,u$s53.500
+Ford,Explorer,"Xlt 4x2 V6,4.0i,12v A 1 2",2004,281501 km,Guayaquil | ,Guayas,u$s10.500
+Ford,Expedition,Eddie Bauer,2010,190000 km,General Villamil (Playas) | ,Guayas,u$s31.000
+Nissan,Tiida Sedan,Sense,2015,118918 km,Guayaquil | ,Guayas,u$s12.000
+Ford,Ranger,XL 2.5 4X2 T-M,1993,350000 km,Guayaquil | ,Guayas,u$s5.000
+Skoda,Octavia,1.6L Ambition,2008,390000 km,Guayaquil | ,Guayas,u$s8.550
+Chevrolet,Captiva Sport,2.4L Aut,2010,142000 km,Quito | ,Pichincha,u$s12.600
+Great Wall,M4,1.5,2019,69000 km,Guayaquil | ,Guayas,u$s13.000
+Ford,F150,3.5L Lariat 4x4 CD,2015,159000 km,Quito | ,Pichincha,u$s49.900
+Chevrolet,Cruze,1.8L,2011,123000 km,Ambato | ,Tungurahua,u$s11.000
+Chevrolet,Trailblazer,LTZ Aut,2018,79251 km,Quito | ,Pichincha,u$s42.900
+Volkswagen,Golf,"City L4,1.8i S 2 1",1996,136000 km,Quito | ,Pichincha,u$s5.300
+Mazda,2 Sedan,1.5L,2011,198000 km,Guayaquil | ,Guayas,u$s10.900
+Chevrolet,Corsa Sedán,1.4 L AC,2006,186000 km,Guayaquil | ,Guayas,u$s7.500
+Ford,F150,XLT 4x4 Cabina Doble,2010,235000 km,Machala | ,El Oro,u$s19.500
+Chevrolet,Spark GT,1.2L,2021,23000 km,Quito | ,Pichincha,u$s12.900
+Nissan,Versa,1.6L Sense,2019,58000 km,Quito | ,Pichincha,u$s15.900
+Chevrolet,Sail Sedán,1.5L A/C,2019,89000 km,Guayaquil | ,Guayas,u$s12.000
+Chevrolet,Trailblazer,2.8L LTZ Aut,2019,115000 km,Manta | ,Manabí,u$s43.500
+Kia,Picanto,1.2L,2021,39650 km,Quito | ,Pichincha,u$s12.650
+Kia,Sportage,2.0L AT,2020,59000 km,Guayaquil | ,Guayas,u$s27.500
+Kia,Sportage GT,2.0L GT,2020,35000 km,Quito | ,Pichincha,u$s28.500
+Brilliance,V3,1.5,2021,25000 km,Quito | ,Pichincha,u$s15.500
+Ford,Fusion,SE Aut,2014,82700 km,Quito | ,Pichincha,u$s19.500
+Chery,Tiggo 2,Sport,2019,94000 km,Guaranda | ,Bolivar,u$s13.499
+Toyota,Prius C ,Sport,2013,199000 km,Guayaquil | ,Guayas,u$s12.000
+Great Wall,M4,1.5,2017,97000 km,Quito | ,Pichincha,u$s12.900
+Tata ,Xenon,2.2L DC 4x2,2004,243131 km, Duran | ,Guayas,u$s5.000
+Mazda,CX-5,2.0L Touring Aut,2019,45000 km,Quito | ,Pichincha,u$s24.500
+Chevrolet,Spark GT,1.2L Full,2018,79000 km,Quito | ,Pichincha,u$s11.900
+name,model,version,year,km,city,province,price
+Chevrolet,Corsa Hatchback,5P 1.4L,2003,332000 km,Quito | ,Pichincha,u$s6.800
+Nissan,Tiida Sedan,Advance,2009,174500 km,Guayaquil | ,Guayas,u$s8.500
+Kia,Picanto,1.2L R,2020,29999 km,Guayaquil | ,Guayas,u$s12.900
+Hyundai,Tucson,4x2 Ac Aut,2007,250000 km,Quito | ,Pichincha,u$s10.900
+Chevrolet,Tracker,LS,2014,185000 km,Santo Domingo De Los Tsáchilas | ,Santo Domingo de los Tsáchilas,u$s15.800
+Nissan,Sentra,Sentra Aut,2006,20000 km,Guayaquil | ,Guayas,u$s4.500
+Jeep,Grand Cherokee,Limited 4x4 Aut,1995,265000 km,Loja | ,Loja,u$s5.500
+Renault,Sandero,1.6L Expression,2015,103000 km,Cuenca | ,Azuay,u$s9.900
+Kia,Picanto,1.2L R,2020,71680 km,Guayaquil | ,Guayas,u$s12.800
+Kia,Sportage,2.0L TM,2006,290000 km,Quito | ,Pichincha,u$s10.000
+Hyundai,Sonata Híbrido,GL Aut Full equipo,2017,58700 km,Guayaquil | ,Guayas,u$s22.500
+Chevrolet,Grand Vitara,5P V6 Ac Aut,2003,176369 km,Quito | ,Pichincha,u$s9.000
+Great Wall,Wingle 5,2.2L C/D,2019,78000 km,Guayaquil | ,Guayas,u$s16.200
+Chevrolet,Trooper,5P 4X4 TM AA,1991,865768 km,Quito | ,Pichincha,u$s4.560
+Skoda,Felicia,"Glx A-A L4,1.6 S 2 1",1995,320000 km,Ambato | ,Tungurahua,u$s5.800
+Renault,Logan,Familier,2011,419000 km,Guayaquil | ,Guayas,u$s6.500
+Chevrolet,Silverado,4x2 T-A AA,1994,340000 km,Guayaquil | ,Guayas,u$s5.200
+Kia,Óptima,2.0 Hibrido,2018,95274 km,Esmeraldas | ,Esmeraldas,u$s23.750
+Ford,F150,3.5L XL 4x4 CS,2018,60000 km,Guayaquil | ,Guayas,u$s53.500
+Ford,Explorer,"Xlt 4x2 V6,4.0i,12v A 1 2",2004,281501 km,Guayaquil | ,Guayas,u$s10.500
+Ford,Expedition,Eddie Bauer,2010,190000 km,General Villamil (Playas) | ,Guayas,u$s31.000
+Nissan,Tiida Sedan,Sense,2015,118918 km,Guayaquil | ,Guayas,u$s12.000
+Ford,Ranger,XL 2.5 4X2 T-M,1993,350000 km,Guayaquil | ,Guayas,u$s5.000
+Skoda,Octavia,1.6L Ambition,2008,390000 km,Guayaquil | ,Guayas,u$s8.550
+Chevrolet,Captiva Sport,2.4L Aut,2010,142000 km,Quito | ,Pichincha,u$s12.600
+Great Wall,M4,1.5,2019,69000 km,Guayaquil | ,Guayas,u$s13.000
+Ford,F150,3.5L Lariat 4x4 CD,2015,159000 km,Quito | ,Pichincha,u$s49.900
+Chevrolet,Cruze,1.8L,2011,123000 km,Ambato | ,Tungurahua,u$s11.000
+Chevrolet,Trailblazer,LTZ Aut,2018,79251 km,Quito | ,Pichincha,u$s42.900
+Volkswagen,Golf,"City L4,1.8i S 2 1",1996,136000 km,Quito | ,Pichincha,u$s5.300
+Mazda,2 Sedan,1.5L,2011,198000 km,Guayaquil | ,Guayas,u$s10.900
+Chevrolet,Corsa Sedán,1.4 L AC,2006,186000 km,Guayaquil | ,Guayas,u$s7.500
+Ford,F150,XLT 4x4 Cabina Doble,2010,235000 km,Machala | ,El Oro,u$s19.500
+Chevrolet,Spark GT,1.2L,2021,23000 km,Quito | ,Pichincha,u$s12.900
+Nissan,Versa,1.6L Sense,2019,58000 km,Quito | ,Pichincha,u$s15.900
+Chevrolet,Sail Sedán,1.5L A/C,2019,89000 km,Guayaquil | ,Guayas,u$s12.000
+Chevrolet,Trailblazer,2.8L LTZ Aut,2019,115000 km,Manta | ,Manabí,u$s43.500
+Kia,Picanto,1.2L,2021,39650 km,Quito | ,Pichincha,u$s12.650
+Kia,Sportage,2.0L AT,2020,59000 km,Guayaquil | ,Guayas,u$s27.500
+Kia,Sportage GT,2.0L GT,2020,35000 km,Quito | ,Pichincha,u$s28.500
+Brilliance,V3,1.5,2021,25000 km,Quito | ,Pichincha,u$s15.500
+Ford,Fusion,SE Aut,2014,82700 km,Quito | ,Pichincha,u$s19.500
+Chery,Tiggo 2,Sport,2019,94000 km,Guaranda | ,Bolivar,u$s13.499
+Toyota,Prius C ,Sport,2013,199000 km,Guayaquil | ,Guayas,u$s12.000
+Great Wall,M4,1.5,2017,97000 km,Quito | ,Pichincha,u$s12.900
+Tata ,Xenon,2.2L DC 4x2,2004,243131 km, Duran | ,Guayas,u$s5.000
+Mazda,CX-5,2.0L Touring Aut,2019,45000 km,Quito | ,Pichincha,u$s24.500
+Chevrolet,Spark GT,1.2L Full,2018,79000 km,Quito | ,Pichincha,u$s11.900
+Nissan,X-Trail,Advance 4x2 Aut,2014,125000 km,Guayaquil | ,Guayas,u$s15.900
+Dongfeng,S30,1.6L,2014,162000 km,Guayaquil | ,Guayas,u$s6.300
+Skoda,Fabia,1.6 MPI,2018,95000 km,Guayaquil | ,Guayas,u$s12.300
+Nissan,Frontier,Chasis,2013,117280 km,Quito | ,Pichincha,u$s17.000
+Kia,Sportage,2.0L TM,2015,86000 km,Quito | ,Pichincha,u$s18.000
+Toyota,Prius C ,Sport,2013,140000 km,Santo Domingo De Los Tsáchilas | ,Santo Domingo de los Tsáchilas,u$s13.200
+Chevrolet,Sail Sedán,1.5L A/C,2018,150000 km,Guayaquil | ,Guayas,u$s12.500
+Kia,Sportage,2.0L TM,2015,148000 km,Quito | ,Pichincha,u$s17.000
+Kia,Stylus LSX,lsx,2013,238000 km,Guayaquil | ,Guayas,u$s8.500
+Volkswagen,Jetta,2.0 GL,2003,184654 km,Manta | ,Manabí,u$s9.500
+JMC,Landwind,X2,2020,44000 km,Quito | ,Pichincha,u$s14.500
+BYD,S6,2.4L GS Aut,2017,75000 km,Quito | ,Pichincha,u$s20.000
+Chevrolet,Grand Vitara,SZ 2.4L 4x2 Aut,2016,64000 km,Quito | ,Pichincha,u$s18.000
+Chevrolet,Spark,1.0L Std,2009,143500 km,Quito | ,Pichincha,u$s7.200
+Kia,Stylus LSX,lsx,2021,7000 km,Quito | ,Pichincha,u$s20.300
+Toyota,Rav4,2.0L 4x2,2003,358035 km,Cuenca | ,Azuay,u$s11.700
+Chevrolet,D-Max,2.4L CS 4x2 Gasolina,2006,180000 km,Guayaquil | ,Guayas,u$s10.000
+JMC,Landwind,X2,2020,48000 km,Guayaquil | ,Guayas,u$s15.500
+Great Wall,Wingle 5,2.2L C/D,2019,70000 km,Guayaquil | ,Guayas,u$s16.000
+Kia,Sportage,2.0L AT,2017,106000 km,Guayaquil | ,Guayas,u$s17.800
+Chevrolet,S-Cross,1.6L,2019,55000 km,Machala | ,El Oro,u$s19.500
+Great Wall,Wingle 5,2.8L C/D 4x2,2015,142000 km,Quito | ,Pichincha,u$s15.800
+Volkswagen,Voyage,1.6 Comfortline,2014,84000 km,Quito | ,Pichincha,u$s13.000
+Toyota,Yaris,1.5L,2020,47000 km,Guayaquil | ,Guayas,u$s18.600
+Chevrolet,Luv,CS 4X2 TM 2.2,1994,3000 km,Quevedo | ,Los Rios,u$s8.000
+Changhe,Minivan,1.1L,2009,84500 km,Quito | ,Pichincha,u$s7.300
+Kia,Soul,1.6L,2022,11000 km,Quito | ,Pichincha,u$s24.600
+Jeep,Grand Cherokee,3.6L  Laredo 4x4,2014,84600 km,Quito | ,Pichincha,u$s34.500
+Chevrolet,Sail Sedán,1.4L Ac,2019,70000 km,Guayaquil | ,Guayas,u$s13.000
+Volkswagen,Amarok,2.0L 4x2 TDI,2018,93000 km,Guayaquil | ,Guayas,u$s25.320
+Volkswagen,Jetta,2.0L Aut,2011,188000 km,Quito | ,Pichincha,u$s11.000
+Kia,Rio,xcite,2011,252000 km,Guayaquil | ,Guayas,u$s10.500
+Chery,Grand Tiggo,2.2L 4x2,2022,16000 km,Portoviejo | ,Manabí,u$s27.000
+Chevrolet,Cavalier,1.5L LT TM,2019,65000 km,Quito | ,Pichincha,u$s18.200
+Audi,Q3,2.0 TFSI quattro S tronic Design,2022,13000 km,Samborondon | ,Guayas,u$s48.000
+Renault,Logan,1.6L Expression AC,2012,300000 km,Quito | ,Pichincha,u$s7.500
+Kia,Stylus LSX,lsx,2013,82000 km,Quito | ,Pichincha,u$s10.500
+Chevrolet,Captiva Sport,2.4L Aut,2020,55000 km,Machala | ,El Oro,u$s22.500
+Kia,Sportage,2.0L TM,2002,400000 km,Loja | ,Loja,u$s6.500
+Mitsubishi,Montero,3.2 Aut,2009,530000 km,La Mana | ,Cotopaxi,u$s25.000
+Kia,Sportage,2.0L 4x2 GSL Aut,2013,124000 km,Rumiñahui | ,Pichincha,u$s15.800
+Chery,Tiggo,1.6,2022,16000 km,Ibarra | ,Imbabura,u$s23.000
+Great Wall,H6,1.5L Turbo,2018,98000 km,Quito | ,Pichincha,u$s15.600
+Toyota,Hilux,2.7L 4x2 CD,2018,43400 km,Quito | ,Pichincha,u$s29.500
+Ford,F150,XLT 4x2 Cabina Doble,2011,170000 km,Guayaquil | ,Guayas,u$s19.600
+Chery,Tiggo 7,Confort,2022,8000 km,Latacunga | ,Cotopaxi,u$s25.000
+Chevrolet,Tracker,1.8L LS TM,2018,77000 km,Quito | ,Pichincha,u$s18.500
+Jeep,WILLYS,2003,1962,230000 km,Quito | ,Pichincha,u$s9.000
+Chevrolet,Grand Vitara,5P 4x4 2.0i,2005,250000 km,Biblian | ,Cañar,u$s10.499
+Mazda,CX-3,2.0L Sport,2021,14600 km,Quito | ,Pichincha,u$s30.900
+Great Wall,C30 ,Confort,2019,50000 km,Quito | ,Pichincha,u$s12.300
+Volkswagen,Jetta,2.0 GL,2012,196000 km,Samborondon | ,Guayas,u$s10.000
+Chevrolet,Grand Vitara,5P Sport 4x4,2013,215194 km,Guayaquil | ,Guayas,u$s12.500
+JAC,T6,2.0L Luxury 4x2,2022,9800 km,General Antonio Elizalde (Bucay) | ,Guayas,u$s21.000
+Shineray,X30 Pasajeros,1.5L,2020,13000 km,Quito | ,Pichincha,u$s14.500
+Kia,Sorento,3.3L 4x2 Aut,2018,90000 km,Guayaquil | ,Guayas,u$s29.000
+Chevrolet,Grand Vitara,5P 4x4 2.5i,2007,206000 km,San Miguel De Los Bancos | ,Pichincha,u$s11.000
+Chevrolet,Sail Sedán,1.5L,2018,40400 km,Guayaquil | ,Guayas,u$s14.300
+Great Wall,C30 ,Plus,2019,51000 km,Quito | ,Pichincha,u$s12.300
+Hyundai,Tucson,2.0L Premium TA 4x2,2011,232280 km,Guayaquil | ,Guayas,u$s15.000
+Soueast,DX3,1.5L A/T,2019,76000 km,Quito | ,Pichincha,u$s18.000
+FIAT,Palio,Weekend,2006,240100 km,Manta | ,Manabí,u$s6.500
+Volkswagen,Gol,1.6 Power,2011,141000 km,Ambato | ,Tungurahua,u$s10.000
+Haval,H6 Sport,1.5L Turbo,2019,53000 km,Quito | ,Pichincha,u$s18.000
+Skoda,Superb,1.9 TDI 105 CV,2008,392000 km,Guayaquil | ,Guayas,u$s7.500
+Chevrolet,Grand Vitara,3P,2008,200000 km,Manta | ,Manabí,u$s10.400
+Toyota,Dyna,"Version Sin Siglas L4,3.7i,8v S 1 3",1998,115865 km,Lago Agrio | ,Sucumbios,u$s7.800
+Peugeot,308,1.6 308 CC,2005,137000 km,Ambato | ,Tungurahua,u$s16.000
+Hyundai,Tucson,2.0L Entry TM,2021,22000 km,Manta | ,Manabí,u$s30.800
+Hyundai,Creta ,1.6L GL,2018,56435 km,Riobamba | ,Chimborazo,u$s22.000
+Kia,Stylus LSX,lsx,2005,192625 km, Duran | ,Guayas,u$s7.500
+Hyundai,Accent,1.6 Ac,2013,168900 km, Santa Ana | ,Manabí,u$s12.000
+Mitsubishi,Outlander,2.0L GLX,2021,15000 km,El Guabo | ,El Oro,u$s25.500
+Chevrolet,Corsa Hatchback,5P 1.4L,2002,277000 km,Quito | ,Pichincha,u$s6.600
+Haval,H6,2.0L 4x2 Aut,2018,97000 km,Quito | ,Pichincha,u$s17.000
+Foton,Tunland,C 4x4 DC,2019,73000 km,Ambato | ,Tungurahua,u$s22.487
+Chery,Arrizo 3,Confort,2022,18000 km,Salinas | ,Santa Elena,u$s28.000
+Chevrolet,D-Max,3.0L CD 4x4 Full CRDi,2017,137000 km,Guayaquil | ,Guayas,u$s30.000
+Soueast,DX7,1.5L,2019,86000 km,Machala | ,El Oro,u$s20.000
+Ford,Expedition,XLT 4x4,2013,169000 km,Manta | ,Manabí,u$s39.000
+Soueast,DX3,1.5L,2021,15020 km,Guayaquil | ,Guayas,u$s20.000
+JAC,T6,2.0L Inter 4x2,2013,252000 km,Ambato | ,Tungurahua,u$s12.500
+Nissan,Frontier,4x2 CD,2015,132668 km,Quito | ,Pichincha,u$s21.000
+Chevrolet,Corsa Sedán,1.4 L AC,2007,400000 km,Guayaquil | ,Guayas,u$s7.900
+Nissan,Frontier,4x2 CD,2004,57574 km,Quito | ,Pichincha,u$s9.000
+Hyundai,Creta ,1.6L Full TM,2018,68000 km,Guayaquil | ,Guayas,u$s21.000
+Volkswagen,Jetta,2.0 GLS,2009,195000 km,Quito | ,Pichincha,u$s10.700
+Kia,Rio,R 1.4L 4P,2019,41000 km,Quevedo | ,Los Rios,u$s15.500
+Suzuki,Forsa,I,2010,200000 km, Duran | ,Guayas,u$s14.000
+Hyundai,Santa Fe,2.4L 5P,2014,140000 km,Quito | ,Pichincha,u$s22.000
+Great Wall,Wingle 5,2.2L C/D,2018,106000 km,Guayaquil | ,Guayas,u$s14.500
+Great Wall,H6,1.5L Turbo,2018,87400 km,Rumiñahui | ,Pichincha,u$s15.500
+Volkswagen,Gol,1.6L Power,2012,83278 km,Machala | ,El Oro,u$s12.200
+Hyundai,Santa Fe,5 Pas 2.4 4x2 Aut,2014,143000 km,Manta | ,Manabí,u$s22.000
+Mazda,2600,"Chasis 4x4 V6,2.6i S 2 3",1997,280000 km,Portoviejo | ,Manabí,u$s7.500
+Peugeot,301,1.6L Active,2018,52000 km,Quito | ,Pichincha,u$s15.000
+Nissan,Pathfinder,SE WIDE,2006,255000 km,Santo Domingo De Los Tsáchilas | ,Santo Domingo de los Tsáchilas,u$s16.700
+Mitsubishi,Montero,Glx Status 4p,1994,245000 km,Quito | ,Pichincha,u$s9.800
+Nissan,Patrol,GRX,1993,250000 km,Loja | ,Loja,u$s6.200
+Nissan,Tiida Sedan,Sense,2013,140000 km,Quito | ,Pichincha,u$s11.300
+Kia,Soluto,1.4L X cite,2021,10400 km,General Antonio Elizalde (Bucay) | ,Guayas,u$s16.500
+Volkswagen,Voyage,1.6 Comfortline,2015,115000 km,Guayaquil | ,Guayas,u$s12.000
+Toyota,Yaris,1.3,2006,183000 km, Sigsig | ,Azuay,u$s10.000
+Kia,Gran Carnival,3.3L R Aut,2016,86000 km,Rumiñahui | ,Pichincha,u$s28.000
+Nissan,Sentra,Clasico,2011,210000 km,Quito | ,Pichincha,u$s9.000
+Great Wall,H5,Full,2013,116500 km,Loja | ,Loja,u$s12.400
+Volkswagen,Jetta,2.0L Trendline,2007,252333 km,Rumiñahui | ,Pichincha,u$s9.250
+Soueast,DX7,1.5L,2019,56976 km,Quito | ,Pichincha,u$s18.799
+Ford,Explorer,"Xlt 4x2 V6,4.0i,12v A 1 2",2007,182000 km,Guayaquil | ,Guayas,u$s14.000
+Toyota,Rav4,2.0L 4x2,2015,66000 km,Quito | ,Pichincha,u$s25.000
+Honda,Civic,Crx,2008,145000 km,Guayaquil | ,Guayas,u$s11.000
+BMW,Serie 3,330i Sport Line,2011,51400 km,Quito | ,Pichincha,u$s37.000
+Jeep,Cherokee,Classic  4X4,2006,183000 km,Ibarra | ,Imbabura,u$s13.900
+Kia,Cerato R,1.6L Full,2015,105000 km,Quito | ,Pichincha,u$s15.000
+Mazda,BT-50,2.5L 4x2,2011,385000 km,Esmeraldas | ,Esmeraldas,u$s16.000
+Chevrolet,Grand Vitara,3P Sport 4x4,2014,108000 km,Quito | ,Pichincha,u$s15.500
+King Long,Van Kingo,2.8L Diesel 14P,2020,72000 km,Quito | ,Pichincha,u$s25.000
+Skoda,Fabia Combi,1.6L Combi,2011,159000 km,Lago Agrio | ,Sucumbios,u$s10.300
+Mazda,2600,"Chasis 4x4 V6,2.6i S 2 3",2005,171802 km,Cuenca | ,Azuay,u$s14.800
+Toyota,Prius 4G,1.8 CVT,2013,100000 km,Quito | ,Pichincha,u$s14.000
+Volkswagen,Gol,1.8 Confort,2006,250000 km,Ambato | ,Tungurahua,u$s7.300
+Kia,Rio,xcite,2010,900000 km,Machala | ,El Oro,u$s21.000
+Great Wall,C30 ,Luxury,2019,40700 km,Cuenca | ,Azuay,u$s13.500
+Toyota,Rav4,2.0L 4x2,2008,160000 km,Guayaquil | ,Guayas,u$s16.000
+Hyundai,Accent,1.6 Ac,2018,39000 km,Portoviejo | ,Manabí,u$s16.500
+Nissan,Frontier,4x2 CD,2010,255300 km,Riobamba | ,Chimborazo,u$s12.700
+Lada,Samara,"5p 21090 L4,1.0,8v S 2 1",2006,100000 km,Quito | ,Pichincha,u$s4.200
+Renault,Koleos,4x2 CVT,2012,148000 km,Quito | ,Pichincha,u$s13.800
+Dongfeng,Cityvan,1.5L 11P,2016,220928 km,Guayaquil | ,Guayas,u$s10.500
+Ford,Ranger,2.2 RC 4x2 SWB chasis,2002,327550 km,Quito | ,Pichincha,u$s8.500
+Toyota,Yaris Sport ,1.5L,2005,190000 km,Quito | ,Pichincha,u$s11.000
+Nissan,Pathfinder,3.5L Advance,2005,260000 km,Quito | ,Pichincha,u$s12.500
+Chevrolet,D-Max,3.0L CD 4x4 Full,2016,130000 km,Quito | ,Pichincha,u$s30.000
+Dongfeng,Funvan,1.3L 11P,2016,206193 km,Guayaquil | ,Guayas,u$s6.500
+Toyota,Land Cruiser Prado,"Chasis Largol6,4.0 S 1 2",2008,285000 km,Puerto Quito | ,Pichincha,u$s19.000
+Chevrolet,Grand Vitara,5P Ac,2009,197131 km,Guaranda | ,Bolivar,u$s12.500
+Chevrolet,Blazer,"S-10 4x4 V6,4.3i,12v A 1 2",2003,260000 km,Cuenca | ,Azuay,u$s9.000
+Chevrolet,Sail Sedán,1.5L A/C,2018,27590 km,Riobamba | ,Chimborazo,u$s14.000
+Mazda,2 Sedan,1.5L Sport MT,2020,14778 km,Alausi | ,Chimborazo,u$s17.400
+Skoda,Fabia,1.6 MPI,2011,159000 km,Quito | ,Pichincha,u$s9.500
+Nissan,Tiida Sedan,Advance,2012,303456 km,Santo Domingo De Los Tsáchilas | ,Santo Domingo de los Tsáchilas,u$s22.500
+Kia,Sorento,3.5L 4X4 AT,2012,136000 km,Quito | ,Pichincha,u$s19.500
+Chevrolet,Grand Vitara,5P 4x4 2.0i,2012,195000 km,Guayaquil | ,Guayas,u$s12.800
+Mitsubishi,Montero Blister,Ltd,2004,140000 km,Cuenca | ,Azuay,u$s18.200
+Chevrolet,Tracker,LT Aut,2014,89000 km,Quito | ,Pichincha,u$s16.900
+Skoda,Felicia,"Glx A-A L4,1.6 S 2 1",1997,59000 km,Quito | ,Pichincha,u$s5.100
+Kia,Sorento,2.4L 4X2 TM,2014,85000 km,Mejia | ,Pichincha,u$s21.500
+Chevrolet,Captiva Sport,3.0L Aut 4x4,2011,58000 km,Quito | ,Pichincha,u$s20.000
+Kia,Cerato Forte,1.6 Full,2010,90000 km,Quito | ,Pichincha,u$s13.800
+BMW,X5,xDrive 30d,2008,196000 km,Santo Domingo De Los Tsáchilas | ,Santo Domingo de los Tsáchilas,u$s4.500
+Chevrolet,Aveo Emotion,1.6L GLS,2009,87000 km,Quito | ,Pichincha,u$s6.300
+Chevrolet,Captiva Sport,2.4L Aut,2014,115000 km,Quito | ,Pichincha,u$s17.500
+Chevrolet,Captiva Sport,3.0L Aut 4x4,2008,173000 km,Las Naves | ,Bolivar,u$s4.500
+Chevrolet,Spark GT,1.2L Full,2017,50000 km, Milagro | ,Guayas,u$s10.500
+Chevrolet,Sail Sedán,1.4L Std,2015,38574 km,Quito | ,Pichincha,u$s12.800
+Chevrolet,Luv,CS 4X2 TM 2.2,1993,500000 km,Rumiñahui | ,Pichincha,u$s7.800
+Dodge,Journey,2.4L SE 4x2 2 Filas,2013,98000 km,Samborondon | ,Guayas,u$s18.000
+Ford,Fusion,2.5L SE Aut,2011,90000 km,Quito | ,Pichincha,u$s17.500
+Nissan,X-Trail,Exclusive 4x4 Aut,2010,115000 km,Cuenca | ,Azuay,u$s16.000
+Nissan,Pathfinder,3.5L Advance,2004,201100 km,Quito | ,Pichincha,u$s12.800
+Nissan,Tiida Sedan,Advance,2013,117000 km,Guayaquil | ,Guayas,u$s9.200
+Renault,Logan,1.6L Authentique,2011,84920 km,Limon-indanza | ,Morona Santiago,u$s2.500
+Renault,Sandero,Dynamique,2014,45500 km,Quito | ,Pichincha,u$s12.500
+Mercedes Benz,Clase S Convertible,500,2007,168261 km,Caluma | ,Bolivar,u$s7.500
+Kia,Carnival R,3.3L R Aut,2001,89000 km,Quito | ,Pichincha,u$s12.500
+Kia,Sportage,2.0L 4x2 GSL,2017,100000 km,Quito | ,Pichincha,u$s18.200
+Mazda,6,2.0L,2010,192000 km,Guayaquil | ,Guayas,u$s14.500
+Peugeot,308,1.6 308 CC,2011,97000 km,Quito | ,Pichincha,u$s9.000
+Skoda,Fabia Combi,1.6L Combi,2012,230000 km,Guayaquil | ,Guayas,u$s10.300
+Toyota,Corolla,XL,2006,165000 km,Quito | ,Pichincha,u$s11.500
+Toyota,Hilux,4x4 CD Diesel,2016,77800 km,Loja | ,Loja,u$s8.500
+Toyota,Hilux,2.4L 4x4 CD Diesel,1998,61093 km,Mira | ,Carchi,u$s1.500
+Toyota,Rav4,2.0L 4x2,2007,172019 km,Ambato | ,Tungurahua,u$s14.699
+Audi,A3,1.6,2002,300000 km,Ibarra | ,Imbabura,u$s8.000
+JMC,Landwind,X2,2019,41000 km,Salinas | ,Santa Elena,u$s14.200
+Changan,CS15,1.5L Elite 4x2,2019,35000 km,Quito | ,Pichincha,u$s15.990
+Chevrolet,Spark GT,1.2L Full,2019,30000 km,Quito | ,Pichincha,u$s11.500
+Chevrolet,Aveo Family,1.5L Ac,2015,74000 km,Portoviejo | ,Manabí,u$s10.499
+Chevrolet,Corsa Hatchback,5P 1.4L,2003,168000 km,Quito | ,Pichincha,u$s6.300
+Chevrolet,Spark,Life 1.0L,2017,102300 km,Guayaquil | ,Guayas,u$s8.500
+Chevrolet,N300,Cargo 4x2,2015,136000 km,Guayaquil | ,Guayas,u$s8.000
+Hyundai,Sonata,FX Full,2014,73000 km,Quito | ,Pichincha,u$s21.000
+Hyundai,Tucson,2.0L Full AT,2006,150000 km,Quito | ,Pichincha,u$s10.500
+Volkswagen,Amarok,2.0L 4x2 Bi-TDI,2010,253320 km,Quito | ,Pichincha,u$s15.500
+Mercedes Benz,Clase V,280 Ambiente,1988,242000 km,Mira | ,Carchi,u$s2.000
+Kia,Sportage,2.0L 4x2 GSL,2011,180000 km,Tulcán | ,Carchi,u$s17.500
+Kia,Sportage,2.0L TM,2007,251000 km,Quito | ,Pichincha,u$s12.500
+Skoda,Fabia,1.6 MPI,2007,123000 km,Guamote | ,Chimborazo,u$s4.000
+Toyota,Land Cruiser 200,4.6L,2015,687000 km, Guachapala | ,Azuay,u$s10.000
+Toyota,Rav4,2.0L 4x2,2002,308000 km,Loja | ,Loja,u$s11.800
+Chevrolet,Grand Vitara,5P Ac,2014,78700 km,Quito | ,Pichincha,u$s16.000
+Chevrolet,Luv,"Doble Cab. 4p P-up 4x2 L4,2.3i,8v S 2 3",1996,200000 km,General Antonio Elizalde (Bucay) | ,Guayas,u$s7.500
+Chevrolet,Spark GT,1.2L Full,2016,37000 km,Quito | ,Pichincha,u$s10.000
+Chevrolet,Tracker,1.8L LT Aut,2017,28000 km,Quito | ,Pichincha,u$s20.500
+Chevrolet,Grand Vitara,3P 1.6i 4x4,2009,169000 km,Cuenca | ,Azuay,u$s10.650
+Chevrolet,S-Cross,1.6L,2019,74000 km,Cuenca | ,Azuay,u$s18.000
+Ford,F150,XLT 4x2 Cabina Doble,2009,193250 km,Santo Domingo De Los Tsáchilas | ,Santo Domingo de los Tsáchilas,u$s19.500
+Hyundai,Terracan,2.5 diesel CDRI,2005,257234 km,Santo Domingo De Los Tsáchilas | ,Santo Domingo de los Tsáchilas,u$s9.700
+Hyundai,Sonata Híbrido,2.0L GL,2017,60000 km,Quito | ,Pichincha,u$s22.900
+Mitsubishi,Montero Sport,Sport,2007,150000 km,Huaquillas | ,El Oro,u$s9.400
+Nissan,CABINA DOBLE 2.4,2.4 4x4,2008,193290 km, Milagro | ,Guayas,u$s4.000
+Renault,Mègane,"Classic L4,1.6i,16v S 2 1",2007,123000 km,El Triunfo | ,Guayas,u$s4.200
+Kia,Rio,R 1.4L,2013,149605 km,Esmeraldas | ,Esmeraldas,u$s9.200
+Mazda,6,2.0L,2007,145000 km,Ambato | ,Tungurahua,u$s6.400
+Skoda,Octavia,1.8L TSI,2008,360000 km,Quito | ,Pichincha,u$s8.500
+Toyota,4Runner,Limited,2014,78364 km,Loja | ,Loja,u$s58.000
+Chery,Tiggo,1.6L 4x2,2017,73000 km,Quito | ,Pichincha,u$s14.000
+JAC,S3,1.6L Plus,2019,15000 km,Quito | ,Pichincha,u$s15.990
+Chevrolet,Aveo Emotion,1.6L Advance,2008,61000 km,Gualaquiza | ,Morona Santiago,u$s5.400
+Chevrolet,Optra,GT hatchback,2007,230000 km,Quito | ,Pichincha,u$s8.500
+Chevrolet,Aveo Family,1.5L Ac,2013,257144 km,Chone | ,Manabí,u$s10.000
+Chevrolet,Sail Hatchback,1.4L Ac,2012,169000 km,Quito | ,Pichincha,u$s8.800
+Chevrolet,Sail Sedán,Full,2016,120000 km,Quito | ,Pichincha,u$s12.000
+Chevrolet,N300,Pasajeros 4x2,2013,80000 km,Guayaquil | ,Guayas,u$s12.800
+Chevrolet,Grand Vitara,SZ 2.0L 4x2,2009,232000 km,Riobamba | ,Chimborazo,u$s10.800
+Chevrolet,Grand Vitara,5P Ac,2008,163000 km,Guaranda | ,Bolivar,u$s10.800
+Chevrolet,D-Max,3.0L CD 4x4,2016,135000 km,Quito | ,Pichincha,u$s29.600
+Hyundai,Santa Fe,5 Pas 2.4 4x2 Aut,2013,129000 km,Rumiñahui | ,Pichincha,u$s24.200
+Hyundai,Tucson,4x2,2010,209000 km,Guayaquil | ,Guayas,u$s13.000
+Hyundai,Grand i10,1.0L A/C,2019,7000 km,Guayaquil | ,Guayas,u$s14.000
+Hyundai,Tucson,4x2 Ac Aut,2007,260000 km,Santo Domingo De Los Tsáchilas | ,Santo Domingo de los Tsáchilas,u$s10.000
+Mitsubishi,Canter,"Fe 434 L4,5.0i S 1 3",2008,215000 km,Loja | ,Loja,u$s19.800
+Nissan,Versa,1.6L Sense,2019,18900 km,Quito | ,Pichincha,u$s19.000
+Nissan,Patrol,GRX,2004,307000 km,Quito | ,Pichincha,u$s16.000
+Volkswagen,T-Cross,1.6L Comfortline,2008,98200 km,Quito | ,Pichincha,u$s10.900
+Renault,Logan,Familier Ac,2014,126921 km,Quito | ,Pichincha,u$s9.500
+Mercedes Benz,Clase A Hatchback,180 d,1965,108002 km,Aguarico | ,Orellana,u$s2.600
+Kia,Rio,1.4L TM,2017,74502 km,Guayaquil | ,Guayas,u$s15.500
+Land Rover,Freelander,"1.8l Tl2 L4,1.8i,16v S 2 2",2000,181000 km,Quito | ,Pichincha,u$s10.800
+Skoda,Fabia,Confoer,2006,114000 km,Guayaquil | ,Guayas,u$s8.500
+Suzuki,Super-carry,"Van Pasajeros L3,1.0 S 1 1",2009,240800 km,Santo Domingo De Los Tsáchilas | ,Santo Domingo de los Tsáchilas,u$s12.500
+Toyota,Corolla,L 1.8,2008,30755 km,Loja | ,Loja,u$s4.000
+Toyota,Hilux,2.4L 4x4 CD Diesel,2019,4000 km,Pastaza | ,Pastaza,u$s12.500
+Honda,CR-V,2.4L LX AT,2002,257000 km,Quito | ,Pichincha,u$s10.000
+Chery,Q,1.0L Full,2017,85500 km,Portoviejo | ,Manabí,u$s7.000
+Great Wall,H3,2.0L,2011,199999 km,Latacunga | ,Cotopaxi,u$s11.790
+Great Wall,H5,2.4 Elite,2015,107000 km,Manta | ,Manabí,u$s14.000
+Chevrolet,Captiva Sport,2.4L Aut,2015,61000 km,Quito | ,Pichincha,u$s19.000
+Chevrolet,Sail Hatchback,1.4L Ac,2015,134000 km,Daule | ,Guayas,u$s9.000
+Chevrolet,Optra,GT hatchback,2006,230 km,Guayaquil | ,Guayas,u$s9.200
+Chevrolet,Spark GT,1.2L LT,2020,22300 km,Quito | ,Pichincha,u$s12.800
+Ford,Edge,3.5L SE Aut,2017,56000 km,Quito | ,Pichincha,u$s37.999
+Hyundai,Elantra,1.6 Ac,2011,75000 km,Ambato | ,Tungurahua,u$s12.700
+Nissan,X-Trail,2.5L Advance 4x2 Aut,2014,92300 km,Quito | ,Pichincha,u$s20.800
+Kia,Sportage R,2.0L  AT,2018,43000 km,Quito | ,Pichincha,u$s22.500
+Kia,Rio,xcite,2008,240000 km,Guayaquil | ,Guayas,u$s8.500
+Kia,Sportage,2.0L AT,2012,147300 km,Quito | ,Pichincha,u$s14.500
+Mazda,BT-50,2.5L Tdi DC Outdoors 4x4,2009,314000 km,Santo Domingo De Los Tsáchilas | ,Santo Domingo de los Tsáchilas,u$s13.500
+Mazda,BT-50,2.5L 4x2,2016,65000 km,Guayaquil | ,Guayas,u$s17.000
+Skoda,Fabia Combi,1.6L Combi,2011,144600 km,Guayaquil | ,Guayas,u$s10.500
+Toyota,Yaris,1.5L Aut,2001,113000 km,Santo Domingo De Los Tsáchilas | ,Santo Domingo de los Tsáchilas,u$s1.500
+Toyota,Land Cruiser Prado,4.6L,2013,110000 km,Guayaquil | ,Guayas,u$s25.000
+Chevrolet,Aveo Emotion,1.6L GLS,2017,71000 km,Latacunga | ,Cotopaxi,u$s14.200
+Chevrolet,Sail Hatchback,1.4L Ac,2015,60500 km,Quito | ,Pichincha,u$s12.000
+Chevrolet,Sail Sedán,1.4L Std,2019,38574 km,Quito | ,Pichincha,u$s12.800
+Chevrolet,Tahoe,5.3L Premier LT,2010,140000 km,Quito | ,Pichincha,u$s29.900
+Chevrolet,Grand Vitara,SZ 2.0L 4x2,2015,136740 km,Quito | ,Pichincha,u$s16.000
+Hyundai,i10,1.1,2009,233194 km,Guayaquil | ,Guayas,u$s8.500
+Hyundai,Accent,1.4L Ac,2011,180000 km, Santa Elena | ,Santa Elena,u$s8.500
+Nissan,1200,4x2 cab.sen,1994,256000 km, Milagro | ,Guayas,u$s2.000
+Nissan,Versa,1.6L Sense,2012,119000 km,Manta | ,Manabí,u$s12.000
+Nissan,Sentra,Ex Saloon,1994,378072 km,Pedro Moncayo | ,Pichincha,u$s4.400
+Volkswagen,Golf,1.6L,2003,177000 km,Quito | ,Pichincha,u$s9.500
+Renault,Logan,1.6L Dynamique,2013,92000 km,Guayaquil | ,Guayas,u$s10.800
+Lada,niva,ventura,2004,223212 km,Quito | ,Pichincha,u$s5.000
+Mazda,3 Hatchback,2.0L,2007,145000 km,Guayaquil | ,Guayas,u$s4.800
+Peugeot,508,1.6 Turbo,1978,100000 km,Quito | ,Pichincha,u$s4.500
+Peugeot,206,1.6 XS,2006,166000 km,Las Naves | ,Bolivar,u$s4.400
+Toyota,Rav4,2.0L 4x2 T/A,2019,5400 km,Quito | ,Pichincha,u$s32.500
+Toyota,Yaris,"(Linea Sol) L4,1.3i,16v A 2 1",2001,113000 km,Pueblo Viejo | ,Los Rios,u$s1.800
+Alfa Romeo,146,"Twin Spark Tapiceria De Cuero L4,2.0i,16v S 2 1",1966,184000 km,Mira | ,Carchi,u$s1.500
+Citroën,C3,1.6L HDI Turbo Shine,2018,20200 km,Quito | ,Pichincha,u$s18.500
+Chery,QQ311,1.1,2013,300000 km,Guayaquil | ,Guayas,u$s5.200
+Chevrolet,Trailblazer,2.8L LTZ Aut,2003,221000 km,Quito | ,Pichincha,u$s8.500
+Dodge,Journey,3.6L SXT 4x2 2 Filas,2012,145000 km,Guayaquil | ,Guayas,u$s15.000
+Ford,Escape,2.5L S 4x2 FWD,2019,12900 km,Daule | ,Guayas,u$s32.000
+Ford,Edge,SE,2013,134000 km,Guayaquil | ,Guayas,u$s21.000
+Nissan,Sentra,Sentra Aut,1995,379000 km,Guayaquil | ,Guayas,u$s5.000
+Renault,Duster,1.6L Expression 4x2,2014,120000 km,Quito | ,Pichincha,u$s15.000
+Renault,Stepway,1.6L,2019,31500 km,Guayaquil | ,Guayas,u$s14.500
+Renault,Mègane,"Classic L4,1.6i,16v A 2 1",2006,187000 km,Chilla | ,El Oro,u$s3.800
+Renault,Sandero,1.6L Dynamique Aut,2011,262000 km,Quito | ,Pichincha,u$s7.800
+Kia,Picanto,1.2L,2018,16200 km,Quito | ,Pichincha,u$s12.300
+Peugeot,206,1.6 XS,2006,196000 km,Guayaquil | ,Guayas,u$s6.400
+Toyota,Land Cruiser Prado,4.0L VX 5P AWD,2008,225000 km,Quito | ,Pichincha,u$s18.500
+Toyota,Prius 4G,1.8L,2018,15000 km,Cuenca | ,Azuay,u$s24.500
+FIAT,iava,motor 1.3,2009,145000 km,Paute | ,Azuay,u$s5.400
+Shineray,X30 Cargo,1.3L,2019,7500 km,Guayaquil | ,Guayas,u$s11.000
+Chevrolet,Grand Vitara,3P 1.6L 4x4,2015,52378 km,Guayaquil | ,Guayas,u$s19.800
+Chevrolet,D-Max,3.0L CD 4x4 Full,2012,300000 km, Santa Elena | ,Santa Elena,u$s21.000
+Chevrolet,Sail Sedán,1.5L A/C,2018,61000 km,Quito | ,Pichincha,u$s17.000
+Chevrolet,Spark GT,1.2L Full,2016,37000 km,Quito | ,Pichincha,u$s10.000
+Chevrolet,Grand Vitara,SZ 2.0L 4x2,2010,150000 km,Mejia | ,Pichincha,u$s14.500
+Chevrolet,Tracker,LS,2014,219000 km,Guayaquil | ,Guayas,u$s13.000
+Chevrolet,Beat,1.2L Premier,2019,38000 km,Quito | ,Pichincha,u$s13.000
+Ford,Escape,S,2011,93500 km,Guayaquil | ,Guayas,u$s16.200
+Hyundai,Ioniq Híbrido,1.6L Hybrid,2017,47000 km,Babahoyo | ,Los Rios,u$s20.500
+Hyundai,H1,2.5L 12 Pas,2014,179000 km,Guayaquil | ,Guayas,u$s25.000
+Jeep,Compass,2.4L 4x2 Aut,2015,114000 km,Quito | ,Pichincha,u$s26.500
+Renault,Stepway,1.6L,2019,8000 km,Quito | ,Pichincha,u$s17.500
+Kia,Rio,"Version Sin Siglas L4,1.5i,16v A 2 1",2018,40000 km,Quito | ,Pichincha,u$s16.000
+Mazda,CX-5,2.0L 4x2 Aut,2015,80000 km,Quito | ,Pichincha,u$s24.000
+Peugeot,5008,1.6L Allure Aut,2018,24000 km,Las Naves | ,Bolivar,u$s30.000
+Toyota,Yaris,1.5L Aut,2008,149000 km,Bolivar | ,Carchi,u$s2.300
+Toyota,Land Cruiser Prado,4.0L VX,2004,176500 km,Guayaquil | ,Guayas,u$s5.500
+Toyota,Hilux,2.7L 4x2 CD,2018,87700 km,Guayaquil | ,Guayas,u$s31.500
+Toyota,Hilux,2.4L 4x4 CD Diesel,2009,163000 km,Caluma | ,Bolivar,u$s14.500
+Soueast,DX3,1.5L,2019,8000 km,Mejia | ,Pichincha,u$s17.000
+Soueast,DX3,1.5L,2018,80000 km,Ambato | ,Tungurahua,u$s16.300
+BMW,X3,M40i,2006,158000 km,Samborondon | ,Guayas,u$s18.000
+Chevrolet,Trailblazer,2.8L LTZ Aut,2003,233155 km,Santo Domingo De Los Tsáchilas | ,Santo Domingo de los Tsáchilas,u$s9.500
+Chevrolet,Sail Hatchback,1.4L Ac,2014,60000 km,Guayaquil | ,Guayas,u$s10.000
+Chevrolet,Spark GT,1.2L LT,2016,85600 km,Quito | ,Pichincha,u$s10.800
+Chevrolet,Aveo Family,Taxi,2017,119000 km,Quito | ,Pichincha,u$s10.500
+Chevrolet,Chevette,"Sl Ranchera L4,1.6,8v S 1 1",1981,60000 km, Guachapala | ,Azuay,u$s30.000
+Chevrolet,Sail Sedán,1.4L Ac,2014,96000 km,Manta | ,Manabí,u$s11.200
+Chevrolet,Sail Sedán,1.5L STD,2019,76452 km,Guayaquil | ,Guayas,u$s14.800
+Ford,F150,FX4 4x2 Cabina Doble,2011,157149 km, Milagro | ,Guayas,u$s20.000
+Hyundai,Tucson,2.0L Full TM,2009,151000 km,Chambo | ,Chimborazo,u$s9.300
+Volkswagen,Jetta,2.0L Trendline,2011,72000 km,Guayaquil | ,Guayas,u$s11.500
+Renault,Logan,Familier,2011,228895 km,Guayaquil | ,Guayas,u$s7.500
+Kia,Sportage GT,R 4x2 GSL Aut,2019,28500 km,Guayaquil | ,Guayas,u$s30.000
+Kia,Picanto,1.2L,2012,81000 km, Guachapala | ,Azuay,u$s7.500
+Mazda,626,GLX,2002,164569 km,Quito | ,Pichincha,u$s10.500
+Toyota,Land Cruiser 200,4.6L 4x4,2016,16528 km, Guachapala | ,Azuay,u$s15.000
+Great Wall,H5,Full,2012,280000 km,Daule | ,Guayas,u$s13.500
+Chevrolet,Grand Vitara,3P Sport 4x4,2010,130000 km,Cuenca | ,Azuay,u$s16.089
+Chevrolet,Corsa Hatchback,5P 1.4L,2003,300000 km,Chone | ,Manabí,u$s4.900
+Chevrolet,Aveo Emotion,1.6L GLS,2008,144000 km,Santiago | ,Morona Santiago,u$s4.800
+Chevrolet,Aveo Family,1.5L Ac,2014,400000 km,Guayaquil | ,Guayas,u$s9.000
+Chevrolet,Grand Vitara,3P 1.6L 4x4,2008,193600 km,Quito | ,Pichincha,u$s11.000
+Chevrolet,Sail Sedán,Std,2013,235000 km,Guayaquil | ,Guayas,u$s8.500
+Chevrolet,Cruze,1.8L AT Sedán,2012,95000 km,Santo Domingo De Los Tsáchilas | ,Santo Domingo de los Tsáchilas,u$s7.000
+Chevrolet,Captiva,LT MT,2020,22000 km,Quito | ,Pichincha,u$s24.000
+Chevrolet,Trooper,3P 4X4 TM AA,1990,340000 km,Guayaquil | ,Guayas,u$s4.300
+Dodge,Durango,4x4 Aut,1999,100200 km,Guayaquil | ,Guayas,u$s16.500
+Hyundai,i10,1.2 Ac,2009,115000 km,Quito | ,Pichincha,u$s7.000
+Hyundai,Santa Fe,2.4L 2x4 7P Aut,2011,260000 km,Guayaquil | ,Guayas,u$s15.800
+Volkswagen,Gol,1.600 . 4 P,2009,200000 km,Quito | ,Pichincha,u$s8.900
+Renault,Duster,1.6L Expression 4x2,2013,130000 km, Santa Elena | ,Santa Elena,u$s12.500
+Mercedes Benz,Clase C Sedán,200,2008,91000 km,Machala | ,El Oro,u$s8.000
+Kia,Picanto,1.0L,2019,5500 km,Quito | ,Pichincha,u$s12.500
+Kia,Rio,1.4L,2019,43000 km,Esmeraldas | ,Esmeraldas,u$s17.000
+Mazda,BT-50,2.5L Td DC 4x2,2010,225000 km,Guayaquil | ,Guayas,u$s13.800
+Toyota,Land Cruiser Prado,"Chasis L6,4.0 S 1 3",2006,218500 km,Loja | ,Loja,u$s4.000
+Toyota,Yaris,"(Linea Sol) L4,1.3i,16v S 2 1",2003,154000 km,Loja | ,Loja,u$s2.000
+Toyota,Prius C ,Sport,2019,60000 km,Guayaquil | ,Guayas,u$s18.000
+Toyota,Fortuner,2.7L 4x4  Aut,2019,11000 km,Quito | ,Pichincha,u$s48.500
+Toyota,Corolla,XLi 1.6,2010,173000 km,Guayaquil | ,Guayas,u$s11.900
+Chevrolet,Esteem ,GLx 1.6i,2004,32800 km,Portoviejo | ,Manabí,u$s7.000
+Chevrolet,Optra,GT hatchback,2007,230000 km,Quito | ,Pichincha,u$s8.000
+Chevrolet,Grand Vitara,SZ 2.0L 4x2,2019,14000 km,Latacunga | ,Cotopaxi,u$s22.000
+Chevrolet,Grand Vitara,SZ 2.0L 4x2,2015,70000 km,Quito | ,Pichincha,u$s16.000
+Chevrolet,C10,"Big 10 Pick-up L6,4.9,12v A-S1 3",1975,89000 km,Machala | ,El Oro,u$s4.000
+Dodge,Durango,SXT,2018,89000 km,Portoviejo | ,Manabí,u$s25.000
+Hyundai,Tucson,2.0L Advance TA 4x2,2007,202000 km,Quito | ,Pichincha,u$s11.000
+Hyundai,Sonata,FX Full,2016,49000 km,Santa Rosa | ,El Oro,u$s8.500
+Hyundai,Santa Fe,2.4L Full Aut,2004,240 km,Santo Domingo De Los Tsáchilas | ,Santo Domingo de los Tsáchilas,u$s11.500
+Nissan,March,Active,2012,196000 km,Guayaquil | ,Guayas,u$s12.000
+Nissan,Versa,1.6L Advance,2014,116000 km,Guayaquil | ,Guayas,u$s14.000
+Volkswagen,Polo,1.6L Comfortline,2004,245000 km,Ibarra | ,Imbabura,u$s6.500
+Volkswagen,Golf,Comfortline,2006,216272 km,Quito | ,Pichincha,u$s8.250
+Volkswagen,Jetta,2.0L Aut,2017,32000 km,Guayaquil | ,Guayas,u$s19.000
+Renault,Logan,1.6L Dynamique,2012,205000 km,Tena | ,Napo,u$s9.000
+Renault,Duster,Dynamique 2.0L 4x2  Aut,2013,125650 km,Guayaquil | ,Guayas,u$s12.500
+Kia,Rio,1.4L,2018,42500 km,Guayaquil | ,Guayas,u$s16.500
+Toyota,Hilux,4x4 CD SR,2012,90065 km,Loja | ,Loja,u$s5.900
+Chevrolet,Luv,CD V6 4X4 3.2 AC,2003,392000 km,Ibarra | ,Imbabura,u$s10.400
+Chevrolet,Spark GT,1.2L Full,2019,23000 km,Quito | ,Pichincha,u$s12.700
+Chevrolet,Aveo Emotion,1.6L GLS,2008,180000 km,Babahoyo | ,Los Rios,u$s5.600
+Chevrolet,Sail Sedán,1.4L Ac,2014,190000 km, Sucre | ,Manabí,u$s10.500
+Chevrolet,D-Max,3.0L CD 4x2 CRDi,2016,110000 km,Guayaquil | ,Guayas,u$s23.500
+Chevrolet,Forsa,Li,1999,200000 km,Quevedo | ,Los Rios,u$s58.000
+Ford,Ecosport,2.0L XLT 4x2,2005,287000 km,Cuenca | ,Azuay,u$s10.250
+Ford,Escape,S,2010,210000 km,Samborondon | ,Guayas,u$s15.500
+Ford,Explorer,XLT 4x4 t-a,1998,401000 km,Guayaquil | ,Guayas,u$s6.200
+Mitsubishi,Montero Sport,4x4,1998,240000 km,Quevedo | ,Los Rios,u$s10.800
+Volkswagen,Gol,1.6 GTI,2014,67000 km,Guayaquil | ,Guayas,u$s13.500
+Kia,Sportage R,R 2.0L 4x2 GSL Aut,2013,136600 km,Guayaquil | ,Guayas,u$s19.800
+Kia,Rio,"Version Sin Siglas L4,1.5i,16v A 2 1",2013,182000 km,Quito | ,Pichincha,u$s9.800
+Mazda,CX-3,2.0L Touring AT,2018,260000 km,Quito | ,Pichincha,u$s28.500
+Mazda,BT-50,2.5L Td DC 4x2,2016,130000 km,Naranjal | ,Guayas,u$s17.000
+Suzuki,Super-carry,"Van Pasajeros L3,1.0 S 1 1",1995,350000 km,Guayaquil | ,Guayas,u$s3.500
+Toyota,Hilux,4x4 CD Diesel,2016,15000 km,Mocache | ,Los Rios,u$s8.500
+Toyota,Land Cruiser Prado,"Chasis Largol6,4.0 S 1 2",2006,218500 km,San Cristobal | ,Galápagos,u$s4.000
+Toyota,Hilux,4x4 CD,2012,97000 km,Gualaquiza | ,Morona Santiago,u$s5.400
+Toyota,Corolla,XLi 1.6,2009,156000 km, Macara | ,Loja,u$s3.500
+Citroën,Berlingo Van,1.6L HDi L,2008,120000 km,Ambato | ,Tungurahua,u$s2.500
